@@ -1,0 +1,1 @@
+El numero de ocurrencias de la cadena [b] es de 0:
