@@ -1,3 +1,4 @@
+//Agregamos las bibliotecas necesarias para el proyecto
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
